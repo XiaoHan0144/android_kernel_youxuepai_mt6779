@@ -117,4 +117,4 @@ all.config
 *.kdev4
 
 make.sh
-out
+out 
